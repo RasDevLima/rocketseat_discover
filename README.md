@@ -1,3 +1,3 @@
 # rocketseat_discover
  
-Tutorial da Semana Discovery da Rocketseat
+Tutorial da Maratona Discover da Rocketseat
